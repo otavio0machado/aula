@@ -1,3 +1,5 @@
 public class Main {
-    Joao vitor é gay;
+    public static void main(String args[]){
+        
+    }
 }
